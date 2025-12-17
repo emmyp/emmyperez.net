@@ -30,4 +30,4 @@ KMeans with a silhouette search over k=2-9 point to 2 stable groups amongst the 
 Purple points (flamethrowers) sit left of center: bigger serves, higher ace/DF risk, and they also post the better win rates/ranks. Yellow points (neutralizers/steady servers) spread to the right: lower-ace, lower-risk serves with more teeth on return.
 
 ## See the work
-The full pipeline, data notes, and code live in this [Github repository](https://github.com/emmyp/atp_archetypes).
+The full pipeline, data notes, and code live in this [Github repository](https://github.com/emmyp/atp-archetypes).
