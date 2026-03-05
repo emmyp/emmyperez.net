@@ -53,8 +53,6 @@ Outlier detection showed that most extreme values correspond to **real stylistic
 
 Why windsorize? Clustering algorithms (such as k-means) are sensitive to extreme values. Instead of removing players, I canned features at the **0.5th and 99.5th percentiles** -- the idea is to preserve genuine stylistic extremes while preventing rare values from dominating cluster centroids.
 
-*** 
-
 ### Collinearity Checks
 
 Another important step was examining **corelation and multicollinearity** among engineering features.
