@@ -1,6 +1,6 @@
 +++
 date = '2026-03-05T13:04:46-08:00'
-draft = true
+draft = false
 title = 'ATP Hard-Court Archetypes (Phase 2) - Pt.1: The Overview Table'
 +++
 
